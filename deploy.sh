@@ -1,7 +1,7 @@
 public static void main()
 
 {
-  int a=10;
+  int a=20;
   system.out.println(string args[]);
 
 }
